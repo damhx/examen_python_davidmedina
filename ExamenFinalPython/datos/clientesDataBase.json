@@ -1,0 +1,11 @@
+{
+    "clientes": {
+        "123456789": {
+            "nombre": "Juan",
+            "apellidos": "Becerra",
+            "numeroDocumento": "123456789",
+            "direccion": "Calle Ficticia 123, Ciudad Ejemplo",
+            "acudiente": "Yolanda",
+            "telefonos": {
+                "celular": "3001234567",
+                "fijo": "0345678910,"},

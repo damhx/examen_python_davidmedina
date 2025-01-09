@@ -17,7 +17,8 @@ Para poder iniciar la ejecución del proyecto, podemos iniciar teniendo en el co
 
 2. **EXPLICACIÓN:**
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/yQwbLcf/image.png" alt="image" border="0"></a>
+![image](https://github.com/user-attachments/assets/6b9d596e-bb12-48c8-bfbb-830e2cdeb777)
+
 
 <a href="https://ibb.co/5GwPFxw"><img src="https://i.ibb.co/GnNqT3N/image.png" alt="image" border="0"></a>
 
